@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images\logo\logo.png" alt="logo" width = "250">
+<img src="https://orack.asia/images/logo/logo.png" alt="logo" width = "250">
 <br>
 <h1>Orack</h1>
 
@@ -97,11 +97,11 @@ Tip：具体请在 [官网](https://orack.asia/) 查看
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="images/tx1.jpg" width="100px;" alt="24"/><br /><sub><b>24</b></sub></a><br /><a href="https://github.com/zCN24" title="Idea & Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="images/tx2.jpg" width="100px;" alt="CC"/><br /><sub><b>CC_OvO</b></sub></a><br /><a href="https://github.com/zCN24" title="Code & Moeny">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="images/tx3.jpg" width="100px;" alt="11"/><br /><sub><b>11.</b></sub></a><br /><a href="#ideas-Georgebillion" title="Idea & Moeny">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="images/tx6.jpg" width="100px;" alt="梦梦"/><br /><sub><b>私の夢を見る</b></sub></a><br /><a href="#ideas-xfdown" title="Idea & Moeny">💴</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="images/tx5.jpg" width="100px;" alt="lxd"/><br /><sub><b>刘信达</b></sub></a><br /><a href="https://github.com/yeyang52/yenai-plugin/commits?author=liuzj288" title="Idea & Moeny">💴</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="https://orack.asia/images/tx1.jpg" width="100px;" alt="24"/><br /><sub><b>24</b></sub></a><br /><a href="https://github.com/zCN24" title="Idea & Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="https://orack.asia/images/tx2.jpg" width="100px;" alt="CC"/><br /><sub><b>CC_OvO</b></sub></a><br /><a href="https://github.com/zCN24" title="Code & Moeny">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="https://orack.asia/images/tx3.jpg" width="100px;" alt="11"/><br /><sub><b>11.</b></sub></a><br /><a href="#ideas-Georgebillion" title="Idea & Moeny">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="https://orack.asia/images/tx6.jpg" width="100px;" alt="梦梦"/><br /><sub><b>私の夢を見る</b></sub></a><br /><a href="#ideas-xfdown" title="Idea & Moeny">💴</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zCN24"><img src="https://orack.asia/images/tx5.jpg" width="100px;" alt="lxd"/><br /><sub><b>刘信达</b></sub></a><br /><a href="https://github.com/yeyang52/yenai-plugin/commits?author=liuzj288" title="Idea & Moeny">💴</a></td>
     </tr>
   </tbody>
 </table>
