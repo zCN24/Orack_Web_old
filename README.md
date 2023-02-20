@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/logo/logo.png" alt="看板娘" width = "350">
+<img src="images\logo\logo.png" alt="看板娘" width = "350">
 <br>
 <h1>Yenai-Plugin</h1>
 
