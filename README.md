@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://orack.asia/images/logo/logo.png" alt="logo" width = "250">
 <br>
+<p>请注意，该源码已失效！</p>
 <h1>Orack</h1>
 
 Orack_Web是一个Orack的官网源码，对官网进行开源<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
